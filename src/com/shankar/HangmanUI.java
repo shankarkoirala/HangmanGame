@@ -32,16 +32,16 @@ public class HangmanUI extends JFrame{
 
     // list of target words
     String[] targetWords = {
-            "native", "country", "color", "example", "helper",
-            "favorite", "charcoal", "smoke", "interest", "video",
-            "language", "drink", "homework","shell", "sympathy",
-            "define", "specify", "drawing", "picture", "frame",
+            "diffuse", "district", "color", "value", "helper",
+            "best", "charcoal", "smoke", "principal", "video",
+            "java", "drink", "homework","shell", "audio",
+            "define", "android", "drawing", "picture", "frame",
             "nutshell", "polygon", "circle", "rectangle", "sphere",
-            "sherry", "lotion", "shoes", "trowsers", "belt",
-            "blouse", "nightgown", "cowboy", "engineer", "waiter",
-            "wheel", "engine", "pedal", "street", "navigate",
-            "sailing", "skiing", "outboard", "runner", "dancer",
-            "hero", "helpless", "pseudonym", "lioness", "integrity"
+            "company", "lotion", "shoes", "trowsers", "belt",
+            "blouse", "temple", "cowboy", "engineer", "waiter",
+            "wheel", "engine", "pedal", "road", "navigate",
+            "boat", "skiing", "cycle", "runner", "bike",
+            "deer", "lion", "pseudonym", "tiger", "monkey"
     };
 
 
